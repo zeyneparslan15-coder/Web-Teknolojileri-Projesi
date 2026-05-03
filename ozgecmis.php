@@ -1,5 +1,5 @@
 <?php
-// PHP kodların varsa buraya gelecek
+
 ?>
 <!DOCTYPE html>
 <html lang="tr">
@@ -69,10 +69,10 @@
                 </div>
             </section>
 
-        </article> <!-- Article burada kapanmalı -->
-    </main> <!-- Main burada kapanmalı -->
+        </article> 
+    </main> 
 
-    <!-- Sayfa Altı (Footer) -->
+    <!-- Sayfa Altı (Footer) --
     <footer class="text-center py-4 text-muted">
         <p>&copy; 2026 Zeynep Arslan - Tüm Hakları Saklıdır.</p>
     </footer>
