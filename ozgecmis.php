@@ -73,9 +73,8 @@
                         </div>
                     </section>
                 </div>
-            </div>
+            
 
-        </article>
     </main>
 
     <!-- Sayfa Altı (Footer) -->
