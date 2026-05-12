@@ -20,12 +20,20 @@
 <body>
 
     <!-- Navigasyon Menüsü -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#">Web Projem</a>
-            <div class="navbar-nav">
-                <a class="nav-link active" href="index.php">Hakkımda</a>
-                <a class="nav-link" href="login.php">Giriş Yap</a>
+            <a class="navbar-brand" href="index.php">ZA</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="navbar-nav ms-auto">
+                    <a class="nav-link" href="index.php">Hakkımda</a>
+                    <a class="nav-link" href="ozgecmis.php">Özgeçmiş</a>
+                    <a class="nav-link" href="sehrim.php">Şehrim</a>
+                    <a class="nav-link" href="iletisim.php">İletişim</a>
+                    <a class="nav-link" href="login.php">Giriş Yap</a>
+                </div>
             </div>
         </div>
     </nav>
