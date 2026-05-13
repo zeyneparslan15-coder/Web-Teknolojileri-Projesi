@@ -9,12 +9,7 @@
     <title>Özgeçmiş</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body { background-color: #f8f9fa; font-family: sans-serif; }
-        .cv-header { background: #343a40; color: white; padding: 2rem; border-radius: 8px; }
-        .section-title { border-bottom: 2px solid #0d6efd; padding-bottom: 10px; color: #0d6efd; }
-        .hobi-tag { background: #e9ecef; padding: 5px 15px; border-radius: 20px; font-size: 0.9rem; margin: 5px; display: inline-block; }
-    </style>
+   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 

@@ -1,0 +1,26 @@
+/* Genel Sayfa Tasarımı */
+body { 
+    background-color: #f8f9fa; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navbar Ayarları */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Kartlar ve Formlar İçin Ortak Stil */
+.login-card, .contact-form, .result-card {
+    background: white; 
+    padding: 30px; 
+    border-radius: 15px; 
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    margin-top: 50px;
+}
+
+/* Şehrim Sayfası Slider Ayarı */
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+}

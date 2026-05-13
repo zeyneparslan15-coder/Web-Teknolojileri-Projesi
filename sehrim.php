@@ -5,11 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>İstanbul - Zeynep Arslan</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body { background-color: #f8f9fa; }
-        .carousel-item img { height: 500px; object-fit: cover; border-radius: 10px; }
-        .city-content { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 

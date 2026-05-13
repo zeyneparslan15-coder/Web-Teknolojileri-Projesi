@@ -5,10 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mesaj Alındı - Zeynep Arslan</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body { background-color: #f8f9fa; display: flex; align-items: center; justify-content: center; height: 100vh; }
-        .result-card { background: white; padding: 30px; border-radius: 15px; shadow: 0 4px 12px rgba(0,0,0,0.1); width: 100%; max-width: 500px; }
-    </style>
+   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
